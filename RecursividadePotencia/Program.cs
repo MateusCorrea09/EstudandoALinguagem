@@ -26,8 +26,6 @@ namespace RecursividadePotencia
         }
         static void Main(string[] args)
         {
-
-
             int a = int.Parse(Console.ReadLine());
             int b = int.Parse(Console.ReadLine());
             Console.WriteLine(Potencia(a,b));

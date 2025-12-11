@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "beecrowd1045", "beecrowd104
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursividadePotencia", "RecursividadePotencia\RecursividadePotencia.csproj", "{A36649F0-264B-4CEB-86E7-976D70F9E15D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursividadeNumeroTriangulas", "RecursividadeNumeroTriangulas\RecursividadeNumeroTriangulas.csproj", "{707038CF-7519-47C5-96FC-9C70F204893C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -85,6 +87,10 @@ Global
 		{A36649F0-264B-4CEB-86E7-976D70F9E15D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A36649F0-264B-4CEB-86E7-976D70F9E15D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A36649F0-264B-4CEB-86E7-976D70F9E15D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{707038CF-7519-47C5-96FC-9C70F204893C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{707038CF-7519-47C5-96FC-9C70F204893C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{707038CF-7519-47C5-96FC-9C70F204893C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{707038CF-7519-47C5-96FC-9C70F204893C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -102,6 +108,7 @@ Global
 		{E4CEC766-950F-4E30-BD48-1039DDC2F57A} = {AC9322C5-6054-43BC-B685-4D40534FFA65}
 		{75A7756C-8FC4-4AA3-9419-41724C428BAF} = {AC9322C5-6054-43BC-B685-4D40534FFA65}
 		{A36649F0-264B-4CEB-86E7-976D70F9E15D} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{707038CF-7519-47C5-96FC-9C70F204893C} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {622E8FC3-4A5A-4C0B-964B-EEC165A8BDEB}
